@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-proportional-font": "github:lwchkg/pxt-proportional-font#v1.0.2",
+        "microbit-pxt-timeanddate": "github:bsiever/microbit-pxt-timeanddate#v2.0.20"
     },
     "files": [
         "main.blocks",
