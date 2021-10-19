@@ -13,7 +13,16 @@
     "name": "2.1 Мигаем светодиодами",
     "imageUrl":"https://raw.githubusercontent.com/CraftAndCode/mood-badge/master/mood%20badge%20schematic.gif",
     "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/flashing-leds/ru", 
-    "description": "Learn to flash external LEDs", 
+    "description": "", 
+    "cardType": "tutorial",
+    "label": "Easy",
+    "labelClass": "green ribbon small"
+},
+{
+    "name": "2.2 Датчики: Акселерометр",
+    "imageUrl":"https://raw.githubusercontent.com/CraftAndCode/mood-badge/master/mood%20badge%20schematic.gif",
+    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/sensors-accelerometer/ru", 
+    "description": "", 
     "cardType": "tutorial",
     "label": "Easy",
     "labelClass": "green ribbon small"
