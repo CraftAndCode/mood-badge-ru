@@ -19,9 +19,27 @@
     "labelClass": "green ribbon small"
 },
 {
-    "name": "2.2 Датчики: Акселерометр",
+    "name": "2.3 Датчики: Акселерометр",
     "imageUrl":"https://raw.githubusercontent.com/CraftAndCode/mood-badge/master/mood%20badge%20schematic.gif",
     "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/sensors-accelerometer/ru", 
+    "description": "", 
+    "cardType": "tutorial",
+    "label": "Easy",
+    "labelClass": "green ribbon small"
+},
+{
+    "name": "2.4 Датчики: Температура и свет",
+    "imageUrl":"https://raw.githubusercontent.com/CraftAndCode/mood-badge/master/mood%20badge%20schematic.gif",
+    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/sensors-light-and-temperature/ru", 
+    "description": "", 
+    "cardType": "tutorial",
+    "label": "Easy",
+    "labelClass": "green ribbon small"
+},
+{
+    "name": "2.5 Датчики: Касание и звук",
+    "imageUrl":"https://raw.githubusercontent.com/CraftAndCode/mood-badge/master/mood%20badge%20schematic.gif",
+    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/sensors-touch-and-sound/ru", 
     "description": "", 
     "cardType": "tutorial",
     "label": "Easy",
